@@ -20,6 +20,7 @@ for i in range(len(result_list)):
 
 for i in result_list:
     print (i,end='')
+    print()
 
 # 8 4 2 1
 # 1 0 0 0
