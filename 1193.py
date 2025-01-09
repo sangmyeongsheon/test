@@ -13,5 +13,6 @@ count_num=int(i-(total_num-1)*(total_num)/2)
 count_num_2=int(total_num-i+(total_num-1)*(total_num)/2)+1
 if total_num%2==0:
     print(count_num,"/",count_num_2,sep="",end="")
+    print("freshman")
 else:
     print(count_num_2,"/",count_num,sep="",end="")
