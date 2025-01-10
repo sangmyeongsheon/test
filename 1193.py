@@ -16,3 +16,4 @@ if total_num%2==0:
     print("freshman")
 else:
     print(count_num_2,"/",count_num,sep="",end="")
+    print()
